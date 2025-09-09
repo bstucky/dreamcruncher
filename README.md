@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 4. Download the spaCy language model if not already installed:
 ```
-python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_lg
 ```
 5. Run the GUI for example with:
 ```
