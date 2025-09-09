@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use DreamCruncher in your research, please cite it as follows:"
+title: "DreamCruncher"
+authors:
+  - family-names: Stucky
+    given-names: Benjamin
+    orcid: https://orcid.org/0000-0002-7425-2927
+date-released: 2025-09-09
+version: 1.0.0
+license: Apache 2.0
+repository-code: https://github.com/bstucky/dreamcruncher
+keywords:
+  - dreams
+  - NLP
+  - preprocessing
+  - psychology
+  - GUI
