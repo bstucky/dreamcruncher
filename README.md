@@ -1,4 +1,4 @@
-# DreamCruncher
+# DreamCruncher 1.0.0
 A python-based GUI to preprocess dream reports in a semi-automated fashion.
 
 Features include:
@@ -31,3 +31,5 @@ from dreamcruncher import DreamCruncher
 DreamCruncher(your_reports, your_keywords, your_spellignorewords)
 ```
 
+## Citation
+If you are using dreamcruncher, please cite it according to the CITATION.cff file or mention the author Benjamin Stucky
