@@ -9,6 +9,8 @@ Features include:
 4. **Spellcheck** — highlights misspelled words and provides suggestions.
 5. **Keyword Flagging** — flags reports based on keywords, for example reports containing phrases unrelated to the dream content or uncertainty.
 
+A track change file is also generated for reproducability purposes, to see what has been changed.
+
 All steps include manual control. The find & replace step is available throughout the GUI. For the first three steps checkboxes will appear so that you can apply changes only to certain flagged instances. The names and places steps will automatically include adverbs when accepting the suggestion, so that the english sentence remains intact. The spellchecker allows for words to be ingnored (like EEG or TV), which would otherwise be flagged. If your keyword is "dreaming", the DreamCruncher will find the lemma "dream" and look for all realted words, like dreaming, dream, dreamt,...
 
 
