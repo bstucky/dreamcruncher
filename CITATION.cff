@@ -3,12 +3,14 @@ message: "If you use DreamCruncher in your research, please cite it as follows:"
 title: "DreamCruncher"
 version: "1.0.0"
 date-released: 2025-09-09
+type: software
 authors:
   - family-names: "Stucky"
     given-names: "Benjamin"
-    orcid: "https://orcid.org/0000-0002-7425-2927"
-license: "Apache-2.0"
+    orcid: "0000-0002-7425-2927"
+license: Apache-2.0
 repository-code: "https://github.com/bstucky/dreamcruncher"
+url: "https://github.com/bstucky/dreamcruncher"
 keywords:
   - dreams
   - NLP
